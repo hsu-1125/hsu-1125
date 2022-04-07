@@ -55,5 +55,5 @@ NOTE: This does not indicate my skill level or language proficiency, it's merely
 
 ## Get in touch
 - Email：qw80416@gmail.com
-- GitHub：hsu-1125
+- GitHub：[hsu-1125](https://www.github.com/hsu-1125)
 
