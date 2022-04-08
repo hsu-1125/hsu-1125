@@ -11,6 +11,8 @@
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+   <img alt="Cloudflare" src="https://img.shields.io/badge/-Cloudflare-FFFFFF?style=flat-square&logo=Cloudflare&logoColor=#E4E4E4" />
+  
 </p>
 <p>
 <h3>My name is Sheng Wei Hsu</h3>
